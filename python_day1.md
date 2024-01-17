@@ -1,4 +1,4 @@
-# python lesson DAY 1
+# python Lesson DAY 1
 ---
 
 > 프로그래밍이란?
