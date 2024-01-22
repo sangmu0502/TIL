@@ -291,3 +291,5 @@ print(enumerate(fruits))  # <enumerate object at 0x000002133DA99700>
 print(list(enumerate(fruits)))  # [(0, 'apple'), (1, 'banana'), (2, 'cherry')]
 
 ``````
+
+# 더미변수 ?
